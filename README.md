@@ -1,3 +1,5 @@
+![](https://images.pexels.com/photos/1170986/pexels-photo-1170986.jpeg)
+
 # First-Repo
 
 github과 git을 배우기 위해 태어난 나의 첫 저장소.
@@ -30,4 +32,4 @@ See [Demo](https://github.com)
 
 - 숨쉬기
 - 계산하기
-- 전력먹
+- 전력먹기
